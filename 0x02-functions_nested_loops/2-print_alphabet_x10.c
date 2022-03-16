@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 -prints out alphabet 10 times
- *
- * Return: alwys oid
- */
+* print_alphabet_x10 -prints out alphabet 10 times
+*
+* Return: alwys oid
+*/
 void print_alphabet_x10(void)
 
 {
@@ -18,3 +18,4 @@ _putchar(m);
 _putchar('\n');
 }
 }
+
