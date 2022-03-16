@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * times_table - 9*9 grid output
- */
+* times_table - 9*9 grid output
+*/
 void times_table(void)
 {
 int r1, r2, m;
@@ -35,3 +35,4 @@ _putchar((m % 10) + '0');
 _putchar('\n');
 }
 }
+

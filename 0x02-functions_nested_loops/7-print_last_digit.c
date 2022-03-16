@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_last_digit - prints the last digit of a number
- * @n: arg
- * Return: value of the last digit using moduls
- */
+* print_last_digit - prints the last digit of a number
+* @n: arg
+* Return: value of the last digit using moduls
+*/
 int print_last_digit(int n)
 {
 int a;
@@ -21,3 +21,4 @@ _putchar(a + '0');
 
 return (a);
 }
+
